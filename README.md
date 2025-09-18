@@ -18,7 +18,7 @@ O objetivo deste projeto é oferecer uma página simples, responsiva e personali
 
 ### 📂 Estrutura
 
-📁 Link-Page
+📁 Link-Page <br>
 ┣ 📂 assets # imagem
 ┣ 📜 index.html # página principal
 ┣ 📜 style.css # estilos da página
@@ -48,6 +48,7 @@ Você pode:
 - Blog / Medium  
 - Instagram
 - Contato (e-mail)
+
 
 
 
