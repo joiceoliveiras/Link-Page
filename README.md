@@ -1,4 +1,4 @@
-###🚀 Sua página de links personalizada
+### 🚀 Sua página de links personalizada
 
 Este projeto é uma página de links no estilo Linktree, mas pensada especialmente para programadores.  
 Aqui você pode reunir em um só lugar seus principais links profissionais, como GitHub, LinkedIn, Portfólio, Blog e muito mais.
@@ -48,5 +48,6 @@ Você pode:
 - Blog / Medium  
 - Instagram
 - Contato (e-mail)
+
 
 
